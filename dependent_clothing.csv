@@ -1,0 +1,17 @@
+idx,name,new_idx,subtract_idx,subtract_name
+97,food_and_non_alcoholic_beverages,0,,
+204,alcoholic_beverages_and_tobacco,1,,
+225,restaurants_and_hotels,2,,
+247,clothing_and_footwear,3,248,clothing__
+496,miscellaneous_goods_and_services,4,,
+287,"housing,_water,_electricity,_gas_and_other_fuels",5,,
+312,"furnishings,_household_equipment_and_routine_household_maintenance",6,,
+405,communication,7,,
+489,education,8,,
+350,health,9,,
+364,purchase_and_operation_of_vehicles,10,,
+387,transportation_services,11,394,passenger_transport_by_air
+394,passenger_transport_by_air,12,,
+424,recreation_and_culture,13,486,package_holidays
+486,package_holidays,14,,
+619,saved_amount_(computed),15,,
